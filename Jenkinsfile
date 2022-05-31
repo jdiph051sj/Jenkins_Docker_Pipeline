@@ -1,7 +1,7 @@
 pipeline {
   agent any;
   stages {
-    stage('Code Quality Check') {
+    stage('Code Quality Check 1 2 3...') {
       steps {
         sh 'echo checking code quality'
       }
